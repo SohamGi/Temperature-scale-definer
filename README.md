@@ -1,2 +1,2 @@
-# Temperature-scale-definer
-This code defines a temperature scale using freezing point and boiling point of water in that scale which is given as an input by the user. 
+This code first uses to points of temperature (here, freezing point and melting point of water)as a reference to define a new temperature scale.
+Then the code allows the user to choose conversions between the created scale and other scales (celsius, Fahrenheit and Kelvin).
